@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=259df5&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Sou+Manuel+Kalueka,+desenvolvedor+apaixonado+por+tecnologia.;Never+stop+de+learning+☔)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=259df5&size=35&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Manuel+Kalueka,+a+developer+passionate+about+tech.;Never+stop+learning+☔)](https://git.io/typing-svg)
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mkaldev08&show_icons=true&count_private=true&hide_border=true&title_color=259df5&icon_color=259df5&text_color=259df5&bg_color=0d1117" alt="GitHub Stats" />
@@ -7,21 +7,21 @@
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Featured Projects
 
-Explore abaixo alguns dos meus principais projetos. Clique para saber mais:
+Here are some of the main projects I've been working on. Click to explore:
 
-| Projeto | Descrição | Tecnologias | Link |
-|--------|-----------|-------------|------|
-| **Letrus Care** | Aplicação desktop e web para gestão de centros de formação profissional. | `React`, `TypeScript`, `Electron`, `TailwindCSS` | [Ver Repositório](https://github.com/mkaldev08/letrus-care-app.git) |
-| **Kiddo Step** | App Mobile (Android e iOS) para rastreamento de crianças via GPS. | `JavaScript`, `React Native`, `Trackimo SDK` | [Ver Repositório](https://github.com/mkaldev08/kiddo-step.git) |
-| **Letrus Care API** | API para gestão escolar: inscrições, pagamentos, notificações. | `TypeScript`, `Node.js`, `MongoDB`, `Express`, `Twilio API` | [Ver Repositório](https://github.com/mkaldev08/letrus-care-api.git) |
+| Project | Description | Technologies | Link |
+|--------|-------------|--------------|------|
+| **Letrus Care** | A cross-platform desktop and web app for managing vocational training centers. | `React`, `TypeScript`, `Electron`, `TailwindCSS` | [View Repository](https://github.com/mkaldev08/letrus-care-app.git) |
+| **Kiddo Step** | A mobile app (Android & iOS) for child tracking via GPS. | `JavaScript`, `React Native`, `Trackimo SDK` | [View Repository](https://github.com/mkaldev08/kiddo-step.git) |
+| **Letrus Care API** | A backend API for managing school operations such as enrollments, payments, and alerts. | `TypeScript`, `Node.js`, `MongoDB`, `Express`, `Twilio API` | [View Repository](https://github.com/mkaldev08/letrus-care-api.git) |
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologies & Tools
 
-Com as quais tenho mais experiência:
+These are the technologies I use most frequently:
 
 <div align="center">
 
@@ -40,9 +40,9 @@ Com as quais tenho mais experiência:
 
 ---
 
-## ✉️ Entre em Contato
+## ✉️ Get in Touch
 
-Estou sempre aberto a novas ideias e oportunidades! Vamos conversar:
+I'm always open to new ideas, opportunities, or a great tech chat. Let's connect:
 
 <p align="center">
   <a href="mailto:pedrokalueca@gmail.com">
