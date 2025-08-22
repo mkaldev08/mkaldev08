@@ -6,24 +6,24 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a Computer Science student from Uíge, Angola
 Passionate about building real-world applications to solve local problems and support digital transformation.
 
-💻 I work mostly with JavaScript technologies (Node.js, React, React Native, Eletron.js)  
-🚀 I'm also learning Java & Jakarta EE for backend development (still in the early stages) and Next.js
-⚙️ Exploring Docker, CI/CD, and testing practices — just getting started!
+- I work mostly with JavaScript technologies (Node.js, React, React Native, Eletron.js)  
+- I'm also learning Java & Jakarta EE for backend development (still in the early stages) and Next.js
+- Exploring Docker, CI/CD, and testing practices — just getting started!
 
 ---
-## 📈 GitHub Stats
+## GitHub Stats
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mkaldev08&show_icons=true&count_private=true&hide_border=true&title_color=259df5&icon_color=259df5&text_color=259df5&bg_color=0d1117" alt="GitHub Stats" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkaldev08&layout=compact&hide_border=true&title_color=259df5&text_color=259df5&bg_color=0d1117" alt="Top Languages" />
 </div>
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
@@ -35,7 +35,7 @@ Passionate about building real-world applications to solve local problems and su
 
 ---
 
-## 🧰 Technologies & Tools
+## Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -66,7 +66,7 @@ Passionate about building real-world applications to solve local problems and su
 
 ---
 
-## 📬 Get in Touch
+## Get in Touch
 I'm always open to new ideas, opportunities, or a great tech chat. Let's connect:
 <div align="center">
   <a href="mailto:pedrokalueca@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -75,8 +75,8 @@ I'm always open to new ideas, opportunities, or a great tech chat. Let's connect
 
 ---
 
-## 📍 Location & Availability
+## Location & Availability
 
-- 🏠 Luanda, Angola
-- 🎓 2nd Year CS Student
-- ✅ Available for internships and junior dev roles
+- Luanda, Angola
+- 2nd Year CS Student
+- Available for internships and junior dev roles
