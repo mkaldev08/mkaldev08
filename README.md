@@ -15,13 +15,13 @@ Passionate about building real-world applications to solve local problems and su
 - I'm also learning Java & Jakarta EE for backend development (still in the early stages) and Next.js
 - Exploring Docker, CI/CD, and testing practices — just getting started!
 
----
+<!-- ---
 ## GitHub Stats
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mkaldev08&show_icons=true&count_private=true&hide_border=true&title_color=259df5&icon_color=259df5&text_color=259df5&bg_color=0d1117" alt="GitHub Stats" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkaldev08&layout=compact&hide_border=true&title_color=259df5&text_color=259df5&bg_color=0d1117" alt="Top Languages" />
 </div>
----
+--- -->
 
 ## Featured Projects
 
