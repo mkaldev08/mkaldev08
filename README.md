@@ -51,6 +51,8 @@ Passionate about building real-world applications to solve local problems and su
 ![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-E60027?style=flat&logo=java&logoColor=white)
 ![PrimeFaces](https://img.shields.io/badge/PrimeFaces-4B4B4B?style=flat&logo=primefaces&logoColor=white)
 
+![C](https://img.shields.io/badge/C-ED8B00?style=flat&logo=C&logoColor=white)
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
