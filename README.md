@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=259df5&size=35&center=true&vCenter=true&width=1240&lines=Open+to+internships+%26+collaborations;Never+stop+learning+☔" alt="Typing SVG" />
 </p>
 
----
-
 ## About Me
 
 I'm a Computer Science student from Uíge, Angola
@@ -15,13 +13,11 @@ Passionate about building real-world applications to solve local problems and su
 - I'm also learning Java & Jakarta EE for backend development (still in the early stages) and Next.js
 - Exploring Docker, CI/CD, and testing practices — just getting started!
 
-<!-- ---
 ## GitHub Stats
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mkaldev08&show_icons=true&count_private=true&hide_border=true&title_color=259df5&icon_color=259df5&text_color=259df5&bg_color=0d1117" alt="GitHub Stats" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkaldev08&layout=compact&hide_border=true&title_color=259df5&text_color=259df5&bg_color=0d1117" alt="Top Languages" />
 </div>
---- -->
 
 ## Featured Projects
 
@@ -32,8 +28,6 @@ Passionate about building real-world applications to solve local problems and su
 | **Letrus Care API** | A backend API for managing school operations such as enrollments, payments, and alerts. | `TypeScript`, `Node.js`, `MongoDB`, `Express`, `Twilio API` | [View Repository](https://github.com/mkaldev08/letrus-care-api.git) |
 
 > 📌 More projects coming soon as I grow my experience!
-
----
 
 ## Technologies & Tools
 
@@ -65,17 +59,12 @@ Passionate about building real-world applications to solve local problems and su
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
 
-
----
-
 ## Get in Touch
 I'm always open to new ideas, opportunities, or a great tech chat. Let's connect:
 <div align="center">
   <a href="mailto:pedrokalueca@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/mkaldev08"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
-
----
 
 ## Location & Availability
 
